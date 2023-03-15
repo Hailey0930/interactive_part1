@@ -9,3 +9,5 @@
 ## Chapter 3. FireWatch 클론 (Parallax Scrolling with CSS, Javascript)
 <img src="https://user-images.githubusercontent.com/107675322/222087610-2fff6d67-3901-448c-b6cc-9bc8288f6494.gif" width="600" />
 
+## Chapter 4. 카카오뱅크 인재 영입 페이지 클론
+<img src="https://user-images.githubusercontent.com/107675322/225318170-9cf87a96-6344-4e4a-a49d-ab83a0a14f0e.gif" width="600" />
